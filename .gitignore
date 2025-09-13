@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large files
+Lib/
+site-packages/
+*.dll
+*.lib
+*.csv
+*.json
+*.log
